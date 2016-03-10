@@ -1,0 +1,26 @@
+{
+  "name": "hobartcurrenttemp",
+  "version": "1.0.0",
+  "description": "hobart current temperature",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anobleperson/HobartCurrentTemp.git"
+  },
+  "keywords": [
+    "temperature"
+  ],
+  "author": "ash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anobleperson/HobartCurrentTemp/issues"
+  },
+  "homepage": "https://github.com/anobleperson/HobartCurrentTemp#readme",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
